@@ -15,7 +15,8 @@ Tanto para a aplicação UDP quanto a TCP, ambas consistem em um sistema de "ech
 	5 - O cliente se desconecta
 
 Não conseguimos adicionar threading e multiclient na aplicação TCP dentro do tempo, 
-ocorreram algumas exceções que não conseguimos encontrar solução.
+ocorreram algumas exceções que não conseguimos encontrar solução, 
+mas é planejada a implementação.
 
 É possível compilar e executar todos os arquivos da seguinte forma:
 Compilação:	g++ main.cpp -o main
